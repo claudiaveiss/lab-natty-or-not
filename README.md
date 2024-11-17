@@ -18,6 +18,7 @@ Criei um prompt para a criação do texto, dando parâmetros à ferramenta para 
 ## 🚀 Resultados
 Acredito que o vídeo ficou bom, porém a minha máquina está muito lenta, então eu não consehui aperveiçoar o vídeo; sincronização, background e alguma coisa no testo.
 Porém, passei a mensagem e consegui criar o projeto.
+(https://studio.d-id.com/share?id=0ade2309be415288abd6c223dfd07322&utm_source=copy)
 
 ## 💭 Reflexão (Opcional)
 Na verdade, eu acredito que criei algo "not natty' com IA.
